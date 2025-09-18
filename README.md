@@ -1,0 +1,1 @@
+# Recalling django base lessons
